@@ -54,9 +54,7 @@ public class CsvController {
 				csvWriter.write(place, getCellProcessor(Place.HEADERS.length));
 			}
 	
-			csvWriter.close();
-			
-			throw new BusinessException("ciao");
+			csvWriter.close();			
 			
 		}catch(BusinessException e){
 			e.printStackTrace();
