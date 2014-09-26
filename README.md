@@ -7,7 +7,7 @@ It offers a UI to find places (location, airport, etc.) typing a text to search.
 
 On the back side the application delegates the searching to a public REST API that responds in Json.
 
-Than Json is unmarshalled and the result is returned to a JSP view that make rendering in HTML.
+Than Json is unmarshalled and the result is returned to a JSP view that makes rendering in HTML.
 
 Also it is possible to download the result in CSV format.
 
