@@ -35,7 +35,7 @@ The frameworks and technologies used are:
 
 Configuration
 
-Internet proxy
+Internet proxy - 
 If you need to use an Internet proxy change dispatcher-servlet.xml uncommenting the following lines
 and setting your proxy details:
 
