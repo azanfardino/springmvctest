@@ -14,7 +14,7 @@ Also it is possible to download the result in CSV format.
 
 There are two controllers: PlaceSearchController and CsvController. They use a PlaceService to fill the model.
 
-In PlaceService in injected a concrete factory that creates the instances of a family of concrete classes (Abstract Factory Pattern).
+In PlaceService is injected a concrete factory that creates the instances of a family of classes (Abstract Factory Pattern).
 
 The frameworks and technologies used are:
 
